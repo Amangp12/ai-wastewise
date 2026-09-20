@@ -2,9 +2,6 @@
 
 **AI-Powered Waste Classification, Disposal and Sustainability Decision-Support System**
 
-Built for the 1M1B AI for Sustainability Virtual Internship, in collaboration with IBM SkillsBuild and AICTE.
-SDG 12 — Responsible Consumption and Production.
-
 Upload a photo of a waste item → the system identifies it, classifies it into a
 waste category, and generates a disposal recommendation grounded in real
 Indian government waste-management documents (via RAG) — with honest
