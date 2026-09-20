@@ -1,21 +1,3 @@
-"""
-Phase 7b -- Retrieval + Grounded Generation
-==============================================
-
-Purpose:
-    Given a waste item and its category (from Phase 6), retrieve the most
-    relevant chunks from the knowledge base, then ask Gemini to generate
-    a disposal recommendation using ONLY that retrieved information --
-    not its own general/unverified knowledge.
-
-This is what makes the system "RAG" rather than just "ask an LLM":
-the model is explicitly instructed to ground its answer in the
-retrieved passages and to say so if the knowledge base doesn't cover
-something, rather than filling gaps with unsourced claims.
-
-Run ingest_knowledge_base.py once before using this.
-"""
-
 import os
 import json
 
