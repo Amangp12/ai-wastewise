@@ -1,24 +1,3 @@
-"""
-Phase 10a -- Analytics Storage
-=================================
-
-Purpose:
-    Log an anonymized record of every classification the system makes,
-    so the dashboard (Phase 10b) can show REAL aggregate statistics --
-    never fabricated numbers, per the project brief's explicit rule.
-
-Privacy note (Responsible AI -- Privacy):
-    We deliberately store the MINIMUM needed for aggregate stats:
-    - detected item name (short text, not the image)
-    - waste category
-    - whether the result was grounded in the RAG sources
-    - whether it was an "uncertain" result
-    - a timestamp
-    We do NOT store: the uploaded image, any user identifier, IP address,
-    or session information. There is nothing in this table that
-    identifies who submitted a given item.
-"""
-
 import sqlite3
 from datetime import datetime, timezone
 from pathlib import Path
