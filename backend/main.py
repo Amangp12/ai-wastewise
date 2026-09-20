@@ -1,23 +1,3 @@
-"""
-Phase 8 -- Backend API
-========================
-
-Purpose:
-    Expose the full pipeline (Phase 5 image analysis -> Phase 6
-    classification -> Phase 7 grounded recommendation) as a single HTTP
-    endpoint the frontend (Phase 9) can call.
-
-Design note: this file does NOT reimplement any AI logic. It only
-orchestrates the existing, already-tested modules (analyze_image,
-classify_waste, rag_query) and shapes their combined output into the
-response format the project brief specifies:
-  Detected Item, Waste Category, Confidence/Uncertainty, Recommended
-  Action, Explanation, Sustainability Impact, Relevant Source/Reference.
-
-Run with:
-    uvicorn main:app --reload
-"""
-
 import shutil
 import tempfile
 import os
