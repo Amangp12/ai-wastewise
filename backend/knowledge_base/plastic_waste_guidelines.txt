@@ -1,0 +1,68 @@
+SOURCE: Consolidated Guidelines for Segregation, Collection and Disposal of
+Plastic Waste
+Central Pollution Control Board (CPCB), Ministry of Environment, Forest and
+Climate Change, Government of India (September 2017)
+(User-provided source document: Consolidate_Guidelines_for_disposal_of_PW.pdf)
+
+--- PLASTIC TYPES AND RECYCLABILITY ---
+
+Thermoplastics (soften on heating, CAN be remolded/recycled):
+- PET (1) - Polyethylene terephthalate: soft drink bottles, food containers
+- HDPE (2) - High-density polyethylene: bottles, carry bags, milk pouches
+- PVC (3) - Polyvinyl chloride: pipes, window profiles, non-food bottles
+- LDPE (4) - Low-density polyethylene: plastic bags, containers
+- PP (5) - Polypropylene: auto parts, food containers, dishware
+- PS (6) - Polystyrene: cafeteria trays, plastic utensils, insulation
+
+Thermosets (do NOT soften/remold on heating, generally NOT recyclable):
+- SMC (Sheet Molding Compound), FRP (Fiber Reinforced Plastic), Bakelite
+
+Note: plastic can typically only be recycled 3-4 times before quality
+degrades too much for further recycling.
+
+--- DO'S AND DON'TS FOR PLASTIC WASTE (household level) ---
+
+DO:
+- Use plastic carry bags/sheets that are 50 microns or thicker (thinner
+  bags are banned under Plastic Waste Management Rules).
+- Use virgin (not recycled/colored) plastic for storing or packaging food.
+- Collect plastic waste in separate bins.
+- Carry a cloth, jute, or compostable bag when shopping instead of taking a
+  plastic carry bag.
+- Buy food in glass jars or other non-plastic material where possible.
+
+DON'T:
+- Don't use carry bags/sheets thinner than 50 microns.
+- Don't use colored or recycled plastic for storing/packaging food.
+- Don't mix plastic waste with biodegradable (wet) waste.
+- Don't burn plastic waste in open areas - this releases hazardous air
+  pollutants and is linked to serious health issues.
+- Don't litter plastic waste in drains, rivers, or sea/beaches - it can be
+  ingested by animals, cattle, and marine life with fatal results.
+
+--- DISPOSAL/RECOVERY ROUTES FOR SEGREGATED PLASTIC WASTE ---
+
+Once properly segregated and handed to authorized collectors, plastic
+waste in India is typically routed through one of these technologies
+(household users don't need to do this themselves - this is for context on
+where segregated plastic actually goes):
+- Road construction: shredded plastic waste mixed into bitumen for road
+  laying (reduces bitumen use, improves road durability).
+- Co-processing in cement kilns: plastic used as alternate fuel at high
+  temperature (1400-1500°C) with minimal harmful emissions.
+- Conversion to fuel-oil (Refuse Derived Fuel): segregated plastic
+  converted into fuel oil / diesel oil via depolymerisation.
+- Plasma pyrolysis: high-temperature, oxygen-starved disintegration; can
+  safely process chlorinated and multi-layer plastics that other methods
+  can't handle.
+
+--- ENVIRONMENTAL RISKS OF IMPROPER PLASTIC DISPOSAL ---
+
+- Plastics are non-biodegradable and persist in the environment for
+  thousands of years.
+- Open burning releases hazardous air pollutants depending on the polymer
+  type.
+- Littered plastic chokes drains, makes land infertile, and can kill
+  cattle/wildlife that ingest it.
+- Improper dumping can leach metals and phthalates into soil and
+  groundwater.

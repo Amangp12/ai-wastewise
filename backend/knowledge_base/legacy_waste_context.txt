@@ -1,0 +1,49 @@
+SOURCE: Guidelines for Disposal of Legacy Waste (Old Municipal Solid Waste)
+Central Pollution Control Board (CPCB), Ministry of Environment, Forest and
+Climate Change, Government of India (February 2019)
+(User-provided source document: LegacyWasteBiomining_guidelines_29_04_2019.pdf)
+
+NOTE: This document is primarily about municipal-scale landfill/dumpsite
+remediation (bio-mining and bio-remediation), not individual household
+waste disposal. It's included here mainly for background definitions and
+context on why proper segregation at the household level matters - poor
+segregation upstream is a major cause of the legacy waste problem this
+document addresses.
+
+--- WHY HOUSEHOLD SEGREGATION MATTERS (context) ---
+
+Historically, mixed waste dumped without segregation accumulates into
+"legacy waste" - massive uncontrolled dumps (some over 50 metres high in
+Indian cities) that generate methane (a potent greenhouse gas), leachate
+that pollutes groundwater, and frequent fires. Segregating waste properly
+at the source (household level) is what prevents this from continuing to
+happen with fresh waste.
+
+--- RELEVANT DEFINITIONS ---
+
+Segregation: the unmixed, separate storage and management of different
+solid waste components - biodegradable waste, non-biodegradable waste
+(including recyclable waste), non-recyclable combustible waste, sanitary
+waste, non-recyclable inert waste, domestic hazardous waste, and
+construction/demolition waste.
+
+Sorting: separating recyclable categories such as paper, plastic,
+cardboard, metal, glass, etc. from mixed waste to enable recycling.
+
+Extended Producer Responsibility (EPR): the responsibility of a
+producer/brand owner for environmentally sound management of a product
+(including its packaging - plastic, tin, glass, cardboard) until the end
+of its life.
+
+--- WHAT HAPPENS TO RECYCLABLES DURING WASTE PROCESSING (context) ---
+
+When mixed/legacy waste is processed, recyclable materials recovered
+include: plastics, metals (ferrous and non-ferrous), glass, paper,
+cardboard, and textiles/rags. Ferrous and non-ferrous metals recovered
+from waste screening are sent for recycling. Heavy fractions including
+glass and construction debris are typically crushed and reused on-site
+(e.g., in road sub-grade) or sent for recycling where possible.
+
+This confirms metal and glass are both established recyclable categories,
+even though this document doesn't give household-level disposal
+instructions for them specifically.

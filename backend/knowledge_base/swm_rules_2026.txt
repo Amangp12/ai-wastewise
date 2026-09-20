@@ -1,0 +1,76 @@
+SOURCE: Solid Waste Management Rules, 2026
+Ministry of Environment, Forest and Climate Change, Government of India
+Published in the Gazette of India, 28 January 2026. In force from 1 April 2026.
+Supersedes the Solid Waste Management Rules, 2016.
+(User-provided source document: SWM_2026.pdf)
+
+--- SCOPE ---
+These rules apply to every urban and rural local body and to every domestic,
+institutional, commercial and non-residential solid waste generator in India.
+
+These rules do NOT cover: industrial waste, hazardous waste, hazardous
+chemicals, bio-medical waste, e-waste, battery waste, and radio-active waste.
+These are governed by separate rules under the Environment (Protection) Act,
+1986. (This is why e-waste and battery disposal guidance needs a different
+source than this document.)
+
+--- KEY WASTE CATEGORY DEFINITIONS ---
+
+Wet waste: organic waste including kitchen waste, food waste, vegetable
+waste, meat waste, fruit waste, flower waste, and similar biodegradable
+waste.
+
+Dry waste: waste other than wet waste, sanitary waste and special care
+waste; includes recyclable waste and non-recyclable waste.
+
+Sanitary waste: used diapers, sanitary towels/napkins, tampons, condoms,
+incontinence sheets, and similar waste. Must be wrapped securely before
+disposal, separate from dry/wet/special care waste.
+
+Special care waste: discarded paint drums, pesticide cans/containers/
+bottles, compact fluorescent lamps (CFL) or bulbs, tube lights, expired
+medicines, broken mercury thermometers, waste batteries, used/waste needles
+and syringes, contaminated gauze, or any other waste notified by CPCB,
+generated at the household level.
+
+Recyclable waste (sorting definition): separating components such as
+paper (including paperboard), plastic, metal, glass, etc. from waste to
+facilitate recycling, processing, or disposal.
+
+Biodegradable waste: any organic material that can be degraded by
+micro-organisms into simpler stable compounds.
+
+Non-biodegradable waste: any waste that cannot be degraded by
+micro-organisms into simpler stable compounds.
+
+Horticultural waste: plant-based waste from parks/gardens (grass, wood
+clippings, weeds, pruning, branches, dead leaves, tree trimmings) that
+can't go in daily wet waste collection.
+
+Construction and demolition waste: stored separately on the generator's own
+premises and disposed of as per the Environment (Construction and
+Demolition) Waste Management Rules, 2025.
+
+--- DUTIES OF EVERY WASTE GENERATOR (Rule 5) ---
+
+Every waste generator (i.e. every household/individual) shall:
+- Segregate and store waste at source in FOUR separate streams: wet waste,
+  dry waste, sanitary waste, and special care waste. Hand over segregated
+  waste to authorised waste pickers/collectors as directed by local
+  authorities.
+- Wrap used sanitary waste (diapers, sanitary pads, etc.) securely in
+  manufacturer-provided pouches or suitable wrapping before placing in the
+  sanitary waste bin, separate from dry/wet/special care bins.
+- Store construction and demolition waste separately on their own premises.
+- Store horticulture/garden waste separately on their own premises.
+- NOT throw, burn, or bury solid waste on streets or open public spaces, or
+  dispose of it in drains or water bodies.
+- Keep suitable containers for storage of segregated waste (wet, dry,
+  special care, sanitary) for handover to authorised collectors.
+- Not mix bio-medical waste with solid waste.
+
+--- GENERAL PRINCIPLE ---
+
+Waste hierarchy (priority order for managing solid waste): prevention is
+most preferred, followed by reduction, reuse, recycling, recovery, and
+disposal (landfill) is the least preferred option.
