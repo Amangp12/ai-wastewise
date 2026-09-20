@@ -1,19 +1,3 @@
-"""
-Phase 10b -- Analytics Dashboard
-===================================
-
-Purpose:
-    Show anonymized aggregate statistics from what the system has ACTUALLY
-    classified so far -- never fabricated numbers, per the project brief.
-
-Run with:
-    streamlit run dashboard.py
-
-This reads the same analytics.db that main.py writes to, so it will show
-real numbers from whatever testing/demo usage has happened through the
-API (or the frontend, which calls the API).
-"""
-
 import streamlit as st
 import pandas as pd
 
