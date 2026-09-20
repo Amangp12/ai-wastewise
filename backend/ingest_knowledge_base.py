@@ -1,29 +1,3 @@
-"""
-Phase 7a -- Knowledge Base Ingestion
-======================================
-
-Purpose:
-    Read the real source documents in knowledge_base/, split them into
-    smaller chunks, embed each chunk into a vector, and store those
-    vectors (plus the original text and source filename) in a local
-    Chroma vector database. This is a ONE-TIME setup step -- run this
-    once (or whenever you add/change source documents), not on every
-    query.
-
-Why chunk instead of embedding whole documents:
-    A whole document mixes many topics together, which makes retrieval
-    fuzzy. Smaller, focused chunks (a few paragraphs each) let retrieval
-    find the SPECIFIC passage relevant to a query, not just "some
-    document that's generally about waste".
-
-Chunking strategy used here: split on blank lines (paragraph boundaries),
-then group consecutive paragraphs up to a target size, with a small
-overlap between chunks so we don't cut an idea in half at a chunk
-boundary. This is a simple, explainable strategy -- easy to describe in
-an interview, and good enough for a knowledge base this size (a handful
-of documents).
-"""
-
 import os
 import glob
 import json
