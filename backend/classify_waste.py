@@ -1,38 +1,3 @@
-"""
-Phase 6 -- Waste Classification Logic
-=======================================
-
-Purpose:
-    Take the structured description from Phase 5 (analyze_image.py) and map
-    it to one of the project's defined waste categories.
-
-Why rules instead of asking Gemini to output the category directly:
-    - Transparent: every classification decision traces to a fixed,
-      inspectable rule -- you can explain exactly why an item was
-      classified a certain way in an interview.
-    - Testable: the mapping table is a fixed table, not a black box.
-    - Keeps "uncertainty" handling explicit and separate from "what
-      category is this" -- these are two different judgments and
-      conflating them would hide failures.
-
-Design decisions (per project owner's choices):
-    - Multiple objects in one photo -> classify EACH object separately
-      and return a list, rather than lumping everything into one
-      "Mixed Waste" label.
-    - A low raw_confidence_signal on an otherwise CLEAR, single-object
-      image does NOT route to Uncertain -- it still classifies normally,
-      just carries a note about lower confidence. Only actual blurriness/
-      unclear images route to Uncertain.
-
-Categories (must match the project's documented category definitions):
-    - Organic/Wet Waste
-    - Recyclable/Dry Waste   (plastic, paper, cardboard)
-    - Glass
-    - Metal
-    - E-waste
-    - Uncertain/Needs Verification
-"""
-
 import sys
 import json
 
