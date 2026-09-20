@@ -1,32 +1,3 @@
-"""
-Phase 5 — Multimodal AI Prototype
-==================================
-
-Purpose (and ONLY purpose, deliberately):
-    Take one image of a waste item, send it to Gemini, and get back a
-    structured, honest description of what's in the image.
-
-This script does NOT classify waste category yet (that's Phase 6) and
-does NOT do RAG or generate disposal advice (Phase 7+). Keeping this
-step isolated means we can test and trust the "seeing" part of the
-pipeline before building anything on top of it.
-
-What we ask the model for, and why:
-    - object_detected      : what item(s) it sees
-    - visible_material      : plastic / metal / glass / organic / mixed / unclear
-    - image_is_clear         : the model's own judgment on image quality
-    - multiple_objects_present : flags images with more than one item
-    - uncertainty_notes       : plain-language explanation of any doubt
-    - raw_confidence_signal   : "high" / "medium" / "low" — the model's own
-                                  self-reported confidence, NOT a calibrated
-                                  probability. We treat this as a rough signal
-                                  only, not ground truth.
-
-We explicitly instruct the model to say "I don't know" / flag uncertainty
-rather than guess confidently — this matters for the Responsible AI
-requirement (Uncertainty) in the project brief.
-"""
-
 import os
 import json
 import sys
